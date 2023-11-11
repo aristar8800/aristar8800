@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 찢 안녕.. 👋
 
 <!--
 **aristar8800/aristar8800** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
